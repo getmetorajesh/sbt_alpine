@@ -1,2 +1,2 @@
 # sbt_alpine
-Alpine sbt
+Alpine sbt 0.13.16
